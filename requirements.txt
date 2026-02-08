@@ -6,3 +6,4 @@ sqlalchemy
 aiosqlite
 authx
 passlib
+python-multipart
